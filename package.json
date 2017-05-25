@@ -1,0 +1,25 @@
+{
+  "name": "hyperfull",
+  "version": "2.0.0",
+  "description": "Allows you to open Hyper in fullscreen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonmeusel/hyperfullscreen.git"
+  },
+  "keywords": [
+    "Fullscreen",
+    "hyper",
+    "Terminal",
+    "Plugin"
+  ],
+  "author": "Simon Meusel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonmeusel/hyperfullscreen/issues"
+  },
+  "homepage": "https://github.com/simonmeusel/hyperfullscreen#readme"
+}
