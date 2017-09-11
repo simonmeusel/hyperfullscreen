@@ -1,4 +1,5 @@
 exports.onWindow = (win) => {
-  win.maximize();
-  win.setFullScreen(true);
+  win.once('show', () => {
+    win.setFullScreen(true);
+  });
 };
